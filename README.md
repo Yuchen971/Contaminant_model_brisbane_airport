@@ -12,7 +12,7 @@
 1. Make sure you have the CLT for Xcode on your Mac.
 If not, try to type this command in your Terminal: 
 
-`xcode-select -install`
+`xcode-select --install`
 
 or follow the installation instructions for Xcode CLT: 
 https://www.ics.uci.edu/~pattis/common/handouts/macmingweclipse/allexperimental/macxcodecommandlinetools.html
