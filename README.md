@@ -14,6 +14,10 @@ If not, try to type this command in your Terminal:
 
 `xcode-select -install`
 
+or follow the installation instructions for Xcode CLT: 
+https://www.ics.uci.edu/~pattis/common/handouts/macmingweclipse/allexperimental/macxcodecommandlinetools.html
+
+
 2. Go to: /Applications/Utilities/Terminal to open terminal.
 3. Install Homebrew (a package manager, more info: https://brew.sh)
 4. Copy-paste this command into your Terminal:
