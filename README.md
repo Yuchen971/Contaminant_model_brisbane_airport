@@ -55,7 +55,7 @@ export PATH="/usr/local/anaconda3/bin:$PATH"
 13. Copy the pathname of the 'make_swtv4.py' (its in the 'examples' folder)
 14. Run `python xxx` (xxx is your path name of make_swtv4.py). ***It will download the seawat source code and compile it on your computer***
 15. Once it finishes, you will see the Unix executable file named 'swtv4' in pymake folder. 
-16. Repeat step 15-16 for other scripts you need in the 'example' directory if needed.
+16. Repeat step 15-16 for other scripts in the 'example' directory if needed.
 
 
 
